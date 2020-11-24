@@ -1,6 +1,6 @@
 # contador_de_pessoas
 
-A new Flutter application.
+Meu primeiro aplicativo desenvolvido com Flutter, com intuido de aprimorar meus conhecimentos em desenvolvimento Mobile.
 
 ## Getting Started
 
